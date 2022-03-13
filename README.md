@@ -4,7 +4,7 @@
 
 **Task 2:** Styre helikopteret med piltastene
 
-**Task 3:** Flere helikopteres som krasjer i hverandre
+**Task 3:** Flere helikoptere som krasjer i hverandre
 
 **Pong:** Spillet pong, multiplayer. Spiller 1 bruker Q og A. Spiller 2 bruker pil opp og pil ned.
 
