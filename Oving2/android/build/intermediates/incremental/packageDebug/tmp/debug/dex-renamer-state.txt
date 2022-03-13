@@ -1,0 +1,4 @@
+#Sun Mar 13 21:11:51 CET 2022
+base.0=/Users/ingridgomo/Documents/Skole/Progark/Oving1Github/Progark_exercise_1/Oving2/android/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
