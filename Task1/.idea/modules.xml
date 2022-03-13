@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Task1New.iml" filepath="$PROJECT_DIR$/.idea/modules/Task1New.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Task1New.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Task1New.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Task1New.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Task1New.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Task1New.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Task1New.desktop.iml" />
+    </modules>
+  </component>
+</project>

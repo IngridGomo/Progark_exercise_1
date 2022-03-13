@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.lwjgl:lwjgl:3.3.0:natives-macos-arm64">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.0/f4a5d3b1faa210a27b5592bd2ac9ed07b5a8d891/lwjgl-3.3.0-natives-macos-arm64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.0/3062aa4c67e36145069dd5804ce953792a5a740b/lwjgl-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="Task1New.android" target="11" />
+      <module name="Task1New.desktop" target="1.8" />
+      <module name="Task2.android" target="11" />
+      <module name="Task2.desktop" target="1.8" />
+      <module name="Task3.android" target="11" />
+      <module name="Task3.desktop" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

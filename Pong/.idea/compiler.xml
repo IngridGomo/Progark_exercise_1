@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="Pong.android" target="11" />
+      <module name="Pong.desktop" target="1.8" />
+      <module name="Task1.android" target="11" />
+      <module name="Task1.desktop" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

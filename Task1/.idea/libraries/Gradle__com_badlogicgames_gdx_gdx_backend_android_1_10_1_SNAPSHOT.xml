@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.badlogicgames.gdx:gdx-backend-android:1.10.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.10.1-SNAPSHOT/7671f4f45bf56972c598026d63ee6f9f69b07587/gdx-backend-android-1.10.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.10.1-SNAPSHOT/c0050b69b2df67590b511ef97af4486ed242d8e9/gdx-backend-android-1.10.1-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.10.1-SNAPSHOT/fb0215d677e9611ff17bff00749a7b27b293ec3d/gdx-backend-android-1.10.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

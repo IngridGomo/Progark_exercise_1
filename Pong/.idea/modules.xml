@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Pong.iml" filepath="$PROJECT_DIR$/.idea/modules/Pong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/Pong.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/Pong.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/Pong.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/Pong.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/Pong.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/Pong.desktop.iml" />
+    </modules>
+  </component>
+</project>

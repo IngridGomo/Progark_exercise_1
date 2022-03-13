@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.badlogicgames.gdx:gdx-jnigen-loader:2.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-jnigen-loader/2.2.0/f8bff67f1788d5f52fb8c21b2cdcee3b93dfb069/gdx-jnigen-loader-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-jnigen-loader/2.2.0/80fc298463ce96fcac9c079db95c803cfe56fae0/gdx-jnigen-loader-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
